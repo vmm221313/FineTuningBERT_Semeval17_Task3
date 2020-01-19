@@ -1,2 +1,4 @@
 glue_data/
 bert_emb/
+bert-base-uncased/
+bert-base-tokenizer/

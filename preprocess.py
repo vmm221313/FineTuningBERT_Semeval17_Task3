@@ -5,7 +5,7 @@ import pandas as po
 from tqdm import tqdm
 
 from bert_as_a_service import add_bert_embeddings_to_df
-
+#from huggingface_bert import add_bert_embeddings_to_df
 
 ### remove stopwords and non-words from tokens list
 def filter_tokens(tokens, stopwords):
